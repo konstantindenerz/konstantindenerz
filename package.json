@@ -1,17 +1,20 @@
 {
   "name": "konstantindenerz",
-  "version": "0.0.4",
+  "version": "0.0.1",
   "description": "A business card for Konstantin Denerz (@kdenerz)",
-  "bin": "./bin/card.js",
+  "bin": "./index.js",
   "main": "./index.js",
   "files": [
-    "./index.js",
-    "./bin/output"
+    "index.js",
+    "bin/output"
   ],
   "scripts": {
     "postinstall": "node ./index.js",
-    "build": "node ./build.js",
-    "publish": "npx np --no-tests"
+    "build": "node ./build.js"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=14.17.0"
   },
   "repository": {
     "type": "git",
