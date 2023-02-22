@@ -1,0 +1,40 @@
+{
+  "name": "konstantindenerz",
+  "version": "0.0.4",
+  "description": "A business card for Konstantin Denerz (@kdenerz)",
+  "bin": "./bin/card.js",
+  "main": "./index.js",
+  "files": [
+    "./index.js",
+    "./bin/output"
+  ],
+  "scripts": {
+    "postinstall": "node ./index.js",
+    "build": "node ./build.js",
+    "publish": "npx np --no-tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konstantindenerz/konstantindenerz.git"
+  },
+  "keywords": [
+    "card",
+    "business",
+    "card",
+    "npx",
+    "card",
+    "npm",
+    "card",
+    "person"
+  ],
+  "author": "Konstantin Denerz <konstantin.denerz@gmail.com> (https://konstantin-denerz.com)",
+  "license": "MIT",
+  "homepage": "https://konstantin-denerz.com",
+  "bugs": {
+    "url": "https://github.com/konstantindenerz/konstantindenerz/issues"
+  },
+  "devDependencies": {
+    "boxen": "^7.0.1",
+    "chalk": "^5.2.0"
+  }
+}
