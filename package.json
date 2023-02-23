@@ -1,12 +1,15 @@
 {
   "name": "konstantindenerz",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A business card for Konstantin Denerz (@kdenerz)",
   "bin": "./index.js",
   "main": "./index.js",
   "files": [
     "index.js",
-    "bin/output"
+    "bin/output",
+    "bin/output-q",
+    "bin/output-i",
+    "bin/output-a"
   ],
   "scripts": {
     "postinstall": "node ./index.js",
