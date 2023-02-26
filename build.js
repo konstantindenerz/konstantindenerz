@@ -28,7 +28,7 @@ const qrcode = `
 const content = `                 ${chalk.white.bold('KONST∆NTIN DENERZ')}
                     
                           
-   ${chalk.grey(`#Angular #Material #UX ${chalk.green('⚡')}UI #Neovim, #TS #SCSS`)} 
+   ${chalk.grey(`#Angular #Material #UX ${chalk.green('⚡')}UI #Neovim #TS #SCSS`)} 
         
                  
 ${chalk.white('Job')}                  ${chalk.white('Consultant & Architect & Coach')}
