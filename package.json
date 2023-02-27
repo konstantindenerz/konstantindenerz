@@ -1,6 +1,6 @@
 {
   "name": "konstantindenerz",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A business card for Konstantin Denerz (@kdenerz)",
   "bin": "./index.js",
   "main": "./index.js",
