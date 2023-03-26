@@ -35,8 +35,9 @@ ${chalk.white('Job')}                  ${chalk.white('Consultant & Architect & C
 ${chalk.white('Twitter')}                 ${chalk.white(`https://twitter.com/${chalk.green('kdenerz')}`)}
 ${chalk.white('Web')}                   ${chalk.white(`https://${chalk.green('konstantin-denerz')}.com`)}
 ${chalk.white('GitHub')}          ${chalk.white(`https://github.com/${chalk.green('konstantindenerz')}`)}
-${chalk.white('CodePen')}          ${chalk.white(`https://codepen.io/${chalk.green('konstantindenerz')}`)}
+${chalk.white('CodePen')}         ${chalk.white(`https://codepen.io/${chalk.green('konstantindenerz')}`)}
 ${chalk.white('Work')}     ${chalk.white(`https://thinktecture.com/${chalk.green('konstantin-denerz')}`)}
+${chalk.white('Mastodon')}   ${chalk.white(`https://mastodon.world/@${chalk.green('konstantindenerz')}`)}
 ${chalk.white('LinkedIn')}   ${chalk.white(`https://linkedin.com/in/${chalk.green('konstantindenerz')}`)}
 ${chalk.white('Card')}                           ${chalk.white(`npx ${chalk.green('konstantindenerz')}`)}`;
 
@@ -46,7 +47,8 @@ const icons = {
     'Web': '󰟒  ',
     'Work': '   ',
     'GitHub': '     ',
-    'CodePen': '     ',
+    'CodePen': '      ',
+    'Mastodon': '󰫑       ',
     'LinkedIn': '󰌻       ',
     'Card': '   ',
 }
