@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+* <a rel="me" href="https://konstantin-denerz.com/">konstantin-denerz.com (Blog)</a>
 * <a rel="me" href="https://codepen.io/konstantindenerz">CodePen</a>
 * <a rel="me" href="https://mastodon.world/@konstantindenerz">Mastodon</a>
 
