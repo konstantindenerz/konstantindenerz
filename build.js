@@ -28,11 +28,11 @@ const qrcode = `
 const content = `                 ${chalk.white.bold('KONST∆NTIN DENERZ')}
                     
                           
-   ${chalk.grey(`#Angular #Material #UX ${chalk.green('⚡')}UI #Neovim #TS #SCSS`)} 
+     ${chalk.grey(`#GenAI #Angular #Material #UX ${chalk.green('⚡')}UI #SCSS`)} 
         
                  
-${chalk.white('Job')}                  ${chalk.white('Consultant & Architect & Coach')}
-${chalk.white('Twitter')}                 ${chalk.white(`https://twitter.com/${chalk.green('kdenerz')}`)}
+${chalk.white('Job')}             ${chalk.white('Dev | Designer | CSS Wizard | Coach')}
+${chalk.white('Twitter')}                       ${chalk.white(`https://x.com/${chalk.green('kdenerz')}`)}
 ${chalk.white('Web')}                   ${chalk.white(`https://${chalk.green('konstantin-denerz')}.com`)}
 ${chalk.white('GitHub')}          ${chalk.white(`https://github.com/${chalk.green('konstantindenerz')}`)}
 ${chalk.white('CodePen')}         ${chalk.white(`https://codepen.io/${chalk.green('konstantindenerz')}`)}
