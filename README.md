@@ -7,6 +7,11 @@
 * <a rel="me" href="https://mastodon.world/@konstantindenerz">Mastodon</a>
 * <a rel="me" href="https://www.youtube.com/@konstantindenerz">My YouTube Channel</a>
 
+![GitHub Profile](https://github-readme-stats.vercel.app/api?username=konstantindenerz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=konstantindenerz&theme=tokyonight&hide_border=true)
+
 <!--
 **konstantindenerz/konstantindenerz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
