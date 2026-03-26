@@ -8,9 +8,9 @@
 * <a rel="me" href="https://mastodon.world/@konstantindenerz">Mastodon</a>
 * <a rel="me" href="https://www.youtube.com/@konstantindenerz">My YouTube Channel</a>
 
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konstantindenerz&theme=tokyonight&show_icons=true&layout=compact&hide_border=true&count_private=true)
-
+-->
 
 <!--
 **konstantindenerz/konstantindenerz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
