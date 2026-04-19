@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🖖
 
 * <a rel="me" href="https://konstantin-denerz.com/">konstantin-denerz.com (Blog)</a>
   * Post: <a rel="alternate" href="https://konstantin-denerz.com/cc-notifynub-a-pixel-art-companion-for-claude-code-in-tmux/">cc-notifynub: A Pixel-Art Companion for Claude Code in tmux</a>
